@@ -1,0 +1,73 @@
+
+#flipbook .shadow,
+#flipbook.shadow{
+  -webkit-box-shadow: 0 4px 30px #666;
+  -moz-box-shadow: 0 4px 30px #666;
+  -ms-box-shadow: 0 4px 30px #666;
+  -o-box-shadow: 0 4px 30px #666;
+  box-shadow: 0 4px 30px #666;
+}
+body{
+	background-color: gray; 
+}
+#flipbook{
+	margin: auto;
+}
+#flipbook .page {
+	background-color: white;
+	font-size: 17.01px;
+	text-align: center;
+	margin: 5px;
+}
+#q {
+	font-size: 18px;
+	font-weight: bold;
+}
+#page1 {
+	font-size: 30px;
+	margin: 30px;
+}
+#page2 {
+	font-size: 14px;
+}
+#page3 { 
+	margin: 30px;
+}
+#page4 {
+	margin: 30px;
+}
+#page5 {
+	margin: 30px;
+}
+#page6 {
+	margin: 30px;
+}
+#page7 {
+	margin: 30px;
+}
+#page8 {
+	font-size: 30px;
+}#page9 {
+	margin: 30px;
+}#page10 {
+	margin: 30px;
+}#page11 {
+	margin: 30px;
+}#page12 {
+	font-size: 30px;
+	margin: 30px;
+}
+#page13 {
+	font-size: 15px;
+	margin: 30px;
+}
+#page14 {
+	margin: 30px;
+}
+#page15 {
+	margin: 30px;
+}
+#page16{
+	font-size: 35px;
+	margin: 30px;
+}
